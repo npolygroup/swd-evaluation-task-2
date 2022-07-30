@@ -59,8 +59,7 @@ You will build a full stack mobile application using `Node.js` and `React Native
 
   - `customer_code`: `int`
   - `customer_name`: `varchar`
-  - `bank_id`: `int`
-  - `bank_name`: `varchar`
+  - `customer_address`: `varchar`
 
 - `banks`:
 
@@ -69,6 +68,7 @@ You will build a full stack mobile application using `Node.js` and `React Native
 
 - `money_receipts`:
 
+  - `mr_id`: `int`
   - `customer_code`: `int`
   - `customer_name`: `varchar`
   - `bank_id`: `int`
