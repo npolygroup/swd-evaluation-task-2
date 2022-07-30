@@ -83,3 +83,7 @@ You will build a full stack mobile application using `Node.js` and `React Native
 - create a new `branch`, `commit` your changes and `push` it to your repository
 - create a new `pull request`
 - submit your `pull request`
+
+## Bonus Requirements
+
+- Use `TypeScript` to this project and it will consider as your bonus mark if you are not familiar with `TypeScript` then you can skip this bonus requirement.
