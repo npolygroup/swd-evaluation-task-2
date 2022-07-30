@@ -71,3 +71,11 @@ You will build a full stack mobile application using `Node.js` and `React Native
   - `bank_name`: `varchar`
   - `amount`: `int`
   - `note`: `varchar`
+
+## Code Submission Guideline
+
+- fork this repository
+- clone the repository to your local machine
+- create a new branch and push it to your repository
+- create a new pull request
+- submit your pull request
