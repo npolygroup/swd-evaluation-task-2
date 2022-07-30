@@ -24,9 +24,13 @@ You will build a full stack mobile application using `Node.js` and `React Native
 ## REST API endpoints
 
 - List of customers: `http://localhost:3000/customers`, method: `GET`
+- Single Customer: `http://localhost:3000/customers/:id`, method: `GET`
 - List of Banks: `http://localhost:3000/banks`, method: `GET`
+- Single Bank: `http://localhost:3000/banks/:id`, method: `GET`
 - Form Submission: `http://localhost:3000/submit-form`, method: `POST`, payload:
   `{ "customer_code": 12345, "customer_name": "ABC Customer", "bank_id": 12221, "bank_name": "Agrani Bank Ltd.", "amount": 313130 }`
+- List of Money Receipts: `http://localhost:3000/money-receipts`, method: `GET`
+- Single Money Receipt: `http://localhost:3000/money-receipts/:id`, method: `GET`
 
 ## Mobile App
 
