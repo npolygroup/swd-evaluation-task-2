@@ -16,7 +16,7 @@ You will build a full stack mobile application using `Node.js` and `React Native
   - `Node.js`
   - `Express.js`
 - Database:
-  - You have to work with Oracle Database in our office. but for this project you can use any SQL database (i.e: `MySQL`, `PostgreSQL`, etc) as your choice.
+  - You have to work with `Oracle` Database in our office. but for this project you can use any SQL database (i.e: `MySQL`, `PostgreSQL`, etc) as your choice.
 - Mobile App:
   - `React Native`
   - `Redux`
@@ -74,8 +74,8 @@ You will build a full stack mobile application using `Node.js` and `React Native
 
 ## Code Submission Guideline
 
-- fork this repository
-- clone the repository to your local machine
-- create a new branch and push it to your repository
-- create a new pull request
-- submit your pull request
+- `fork` this repository
+- `clone` the repository to your local machine
+- create a new `branch`, `commit` your changes and `push` it to your repository
+- create a new `pull request`
+- submit your `pull request`
